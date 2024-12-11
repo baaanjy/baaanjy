@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/lines/baaanjy?pet-id=1" width="1000" height="120"/>
 </a>
 
-## GitHub Stat ❇️
+## Stat ❇️
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baaanjy)](https://github.com/anuraghazra/github-readme-stats)
 
