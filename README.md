@@ -1,7 +1,7 @@
 <h2 align="center"> 🧚 </h2>
 
 <h3 align="center"> 💫 Tech Stack 💫 </h3>
-
+<h4 align="center">  Frontend </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,7 +18,15 @@
   <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazones3&logoColor=white" />
   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
 </div>
-
+<h4 align="center">  Backend </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</div>
 <br/>
 
 <h3 align="center"> 🛠️ Tools 🛠️ </h3>
