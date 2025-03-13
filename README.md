@@ -12,19 +12,21 @@
 * 기타: Vite, REST API, Node.js, AWS
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaanjy&layout=compact&theme=swift)](https://github.com/baaanjy/github-readme-stats)
+
 <h2>📜 Portfolio</h2>
 
 <strong>1️⃣ drone-go</strong>
 * 드론 데이터 시각화 서비스
 * <a href="http://drone-go.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
    
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=drone-go)](https://github.com/ormcamp-fe-3rd/drone-go)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=drone-go&theme=swift)](https://github.com/ormcamp-fe-3rd/drone-go)
 
 <strong>2️⃣ swim360</strong>
 * 수용복 쇼핑몰
 * <a href="swim360-bucket.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=swim360)](https://github.com/ormcamp-fe-3rd/swim360)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=swim360&theme=swift)](https://github.com/ormcamp-fe-3rd/swim360)
 
 
 
