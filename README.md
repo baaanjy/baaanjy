@@ -1,46 +1,33 @@
-<h2 align="center"> 🧚 </h2>
+<h1>👩🏻‍💻 JaeYeong Ban </h1>
 
-<h3 align="center"> 💫 Tech Stack 💫 </h3>
-<h4 align="center">  Frontend </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React Three Fiber-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazones3&logoColor=white" />
-  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-</div>
-<h4 align="center">  Backend </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-<br/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:summer.jyyy@gmail.com)
 
-<h3 align="center"> 🛠️ Tools 🛠️ </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
-</div>
 
-<br />
+<strong>📌 My Skills</strong>
+* 프로그래밍 언어: JavaScript, TypeScript
+* 프레임워크 및 라이브러리: React, Three.js, Axios
+* 스타일링: HTML 5, CSS 3, Tailwind CSS, Shadcn/ui
+* 도구 및 협업: Git, GitHub, Figma
+* 데이터베이스: MySQL, MongoDB, Sequelize
+* 기타: Vite, REST API, Node.js, AWS
 <br />
 
-<div align="center">
+<h2>📜 Portfolio</h2>
+
+<strong>1️⃣ drone-go</strong>
+* 드론 데이터 시각화 서비스
+* <a href="http://drone-go.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
+   
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=drone-go)](https://github.com/ormcamp-fe-3rd/drone-go)
+
+<strong>2️⃣ swim360</strong>
+* 수용복 쇼핑몰
+* <a href="swim360-bucket.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=swim360)](https://github.com/ormcamp-fe-3rd/swim360)
+
+
+
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -51,19 +38,5 @@
   />
 </a>
   
-  
-</div>
-
-
-<br />
-<br />
-
-<h2 align="center"> ❇️ </h2>
-
-<div align="center">
-	
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baaanjy&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-  
-</div>
 
 
