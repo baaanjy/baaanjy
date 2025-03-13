@@ -57,7 +57,12 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=drone-go&theme=swift)](https://github.com/ormcamp-fe-3rd/drone-go)
 * Three.js, Mapbox, Cesium을 활용하여 3D 드론 비행 데이터를 시각화하는 프로젝트
-* 기술 스택: React, Tailwind CSS, MongoDB 등
+* 기술 스택:
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  등
 * <a href="http://drone-go.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
 * 🔐 로그인 정보
   ```
@@ -70,7 +75,12 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=swim360&theme=swift)](https://github.com/ormcamp-fe-3rd/swim360)
 * 수영복 쇼핑몰 웹 애플리케이션 개발 프로젝트
-* 기술 스택: React, Tailwind CSS, MySQL 등
+* 기술 스택:
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  등
 * <a href="swim360-bucket.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
 * 🔐 로그인 정보
   ```
@@ -81,7 +91,9 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ormcamp-fe-3rd&repo=bunnies-page&theme=swift)](https://github.com/ormcamp-fe-3rd/bunnies-page)
 * 아이돌 팬들을 위한 팬페이지
-* 기술 스택: Javascript, Tailwind Css
+* 기술 스택:
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 * <a href="https://hongdaeipgu.netlify.app/">🚀 배포 링크</a>
 
 
