@@ -35,7 +35,7 @@
 
 <strong>📚 Education </strong>
 <details>
-  <summary>`24.10 - 25.02` 모두의연구소 오름캠프 : 자바스크립트 웹 풀스택 개발자 실무과정 3기 수료</summary>
+  <summary>[24.10 - 25.02] 모두의연구소 오름캠프 : 자바스크립트 웹 풀스택 개발자 실무과정 3기 수료</summary>
 
   - Curriculum
     - 프론트엔드: HTML, CSS, Javascript 기초/고급, React, Next.js, 상태 관리, Story Book, CI/CD
