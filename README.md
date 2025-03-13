@@ -4,12 +4,31 @@
 
 
 <strong>📌 My Skills</strong>
-* 프로그래밍 언어: JavaScript, TypeScript
-* 프레임워크 및 라이브러리: React, Three.js, Axios
-* 스타일링: HTML 5, CSS 3, Tailwind CSS, Shadcn/ui
-* 도구 및 협업: Git, GitHub, Figma
-* 데이터베이스: MySQL, MongoDB, Sequelize
-* 기타: Vite, REST API, Node.js, AWS
+* 프로그래밍 언어:
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+* 프레임워크 및 라이브러리:
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+* 스타일링:
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+  ![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-FF59F2?style=flat&logo=shadcn&logoColor=white)
+* 도구 및 협업:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+* 데이터베이스:
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+* 기타: 
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST%20API-00BFFF?style=flat&logo=rest&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaanjy&layout=compact&theme=swift)](https://github.com/baaanjy/github-readme-stats)
 
