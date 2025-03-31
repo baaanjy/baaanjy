@@ -80,7 +80,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   등
-* <a href="swim360-bucket.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
+* <a href="http://swim360-bucket.s3-website.ap-northeast-2.amazonaws.com/">🚀 배포 링크</a>
 * 🔐 로그인 정보
   ```
    ID: hong@example.com, kim@example.com, sin@example.com, choi@example.com PW: 123
