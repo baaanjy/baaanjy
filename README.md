@@ -30,7 +30,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaanjy&layout=compact&theme=swift)](https://github.com/baaanjy/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaanjy&layout=compact&theme=swift)](https://github.com/baaanjy/github-readme-stats) -->
 
 <strong>📚 Education </strong>
 <details>
