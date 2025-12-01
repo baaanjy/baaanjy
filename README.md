@@ -52,7 +52,7 @@
 
 <h2>📜 Portfolio</h2>
 
-<strong>1️⃣ drone-go</strong>
+<a href="https://github.com/ormcamp-fe-3rd/drone-go"><strong>1️⃣ drone-go</strong></a>
 * Three.js, Mapbox, Cesium을 활용하여 3D 드론 비행 데이터를 시각화하는 프로젝트
 * 기술 스택:
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -68,7 +68,7 @@
    
 
 
-<strong>2️⃣ swim360</strong>
+<a href="https://github.com/ormcamp-fe-3rd/swim360"><strong>2️⃣ swim360</strong></a>
 
 * 수영복 쇼핑몰 웹 애플리케이션 개발 프로젝트
 * 기술 스택:
@@ -82,7 +82,7 @@
    ID: hong@example.com, kim@example.com, sin@example.com, choi@example.com PW: 123
   ```
 
-<strong>3️⃣ bunnies-page</strong>
+<a href="https://github.com/ormcamp-fe-3rd/bunnies-page"><strong>3️⃣ bunnies-page</strong></a>
 
 * 아이돌 팬들을 위한 팬페이지
 * 기술 스택:
